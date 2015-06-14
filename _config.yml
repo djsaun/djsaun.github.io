@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            David Saunders' Blog
 locale:           en_US
 url:              
 
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: David Saunders
+  avatar: david_saunders.jpg
+  bio: "David Saunders is a front-end web developer. He lives and works in Austin, TX."
+  email: djsaun@gmail.com
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: djsaun
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: davidjsaunders
   xing: #username
   instagram: #username
   lastfm: #username

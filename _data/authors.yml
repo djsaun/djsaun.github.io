@@ -1,20 +1,10 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+david_saunders:
+  name: David Saunders
+  web: http://davidjsaunders.com
+  email: djsaun@gmail.com
+  bio: "David Saunders is a front-end web developer. He lives and works in Austin, TX."
+  avatar: david_saunders.jpg
+  github: djsaun
+  linkedin: davidjsaunders
